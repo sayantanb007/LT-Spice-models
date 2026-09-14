@@ -1,0 +1,8 @@
+LTspice 24.1.10 for Windows
+Circuit: C:\Users\QXZ2UV6\Documents\LTspice\Draft31.net
+Start Time: Thu Sep 10 17:30:52 2026
+Options: SOAaccounting=1;turns on SOA accounting for MOSFETs that includes thermal data
++temp 25
+C:\Users\QXZ2UV6\Documents\LTspice\Draft31.net(12): Undefined model "r".
+R5 Ts N002 R
+           ^
